@@ -1,0 +1,22 @@
+"config"
+{
+	"bindings"
+	{
+		"`"		"<unbound>"
+		"c"		"radio1"
+		"f"		"<unbound>"
+		"v"		"+voicerecord"
+		"z"		"player_ping"
+		"MWHEELDOWN"		"+jump"
+		"MWHEELUP"		"<unbound>"
+		"MOUSE3"		"player_ping"
+		"MOUSE5"		"+boing; +ding; +dong ."
+		"SPACE"		"+jump"
+		"n"		"noclip"
+		"SHIFT"		"+sprint"
+		"'"		"toggleconsole"
+		","		"= show_loadout_toggle"
+		"i"		"demoui"
+		"o"		"demoui"
+	}
+}
