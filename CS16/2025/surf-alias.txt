@@ -1,0 +1,4 @@
+ alias +slowturnleft "+speed; +left"
+ alias -slowturnleft "-speed; -left"
+ alias +slowturnright "+speed; +right"
+ alias -slowturnright "-speed; -right"
